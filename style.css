@@ -158,7 +158,7 @@ border-radius: 5px;
 .footer-container {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   max-width: 1300px;
   gap: 40px;
   margin: auto;
